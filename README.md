@@ -1,7 +1,7 @@
 
 #Maria Romero
 
-I am a Former Street Food Vendor and have done a little bit of everything in my short life, one of those decisions was to do Makers Academy, where I have learned design in a completely different field my BA in Graphic Design help me when it came to front end development and finishing touches of several projects
+I am a Former Street Food Vendor and have done a little bit of everything in my short life, one of those decisions was to do Makers Academy, where I have learned design in a completely different field, my BA in Graphic Design help me when it came to front end development and finishing touches of several projects.
 
 This intensive course has left me exhausted yet thrilled that I'll be joining a fun, challenging and thriving industry, I'm looking to start as a junior web developer in an agile environment where I will be forever evolving as a person and as a professional.
 
@@ -16,22 +16,22 @@ In the past four months I have been building web applications, API's, working wi
 Six months ago I hadn't written a single line of code now I am ready to say I have definitely learn and can continue learning this thing!.
 
 **I've evolved.**<br />
-I was born and raised in Venezuela, where I did my Bachelors degree whilst being an English teacher, spent a few years in USA where I started my own exporting company, before moving to the UK, since being here I realised that this life is mine to shape and with perseverance I can get very very far.
+I was born and raised in Venezuela, where I did my Bachelors degree whilst being an English teacher, spent a few years in USA where I started my own exporting company, before moving to the UK, since being here I've realised that in needed to adapt a growth mindset, that this life is mine to shape and with perseverance I can get very very far.
 
 ###Projects | *stuff I’ve made*
 
-**[Street Food](https://team-streetfood.herokuapp.com)** | Makers Academy<br />
-Web App that can arrow street food vendors given search area via algorithmic analysis of Google maps data.<br />
-Technologies: Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API .
+**[Street Food](https://team-streetfood.herokuapp.com)** | Team of 4 | Built in 5 days | Makerthon Week <br />
+Web App that allows street food traders to create their profiles, advertising their business, as well as location, time and place. Customers can narrow street food vendors given a search area via algorithmic analysis of Google maps data.<br />
+Technologies: Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API.
 
-**[Air BnB](https://air-bnb-aams.herokuapp.com/spaces)** | Project week<br />
+**[Air BnB](https://air-bnb-aams.herokuapp.com/spaces)** | Team of 4 | Built in 4 days | Project Week<br />
 Air BnB clone.<br />
-Technologies: Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, JS & PostgreSQL.
+Technologies: Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, Java Script & PostgreSQL.
 
-**[Motivation API](https://github.com/RobinHeathcote/Motivation)** | Final Project<br />
+**[Motivation API](https://github.com/RobinHeathcote/Motivation)** | Team of 4 | Built in 5 days | Final Project<br />
 Api that stores peoples aspirations, obstacles and plans.<br />
-Technologies: Ruby on Rails, Rspec, Device-Token-auth.
-**[Motivation Front-end](https://github.com/letianw91/motivation-frontend)** | Final Project<br />
+Technologies: Ruby on Rails, Rspec, Device-Token-auth.<br />
+**[Motivation Front-end](https://github.com/letianw91/motivation-frontend)** | Team of 4 | Built in 4 days | Final Project<br />
 Angular App.<br />
 Technologies: Angular, gulp, yeoman.
 
@@ -43,7 +43,7 @@ Technologies: Angular, gulp, yeoman.
 - Teaching Web development with Ruby, Ruby on Rails, among others.
 
 **Universidad Rafael Belloso Chacin (June 2002 - December 2006)** <br />
-**Bachelor in Graphic Design Maracaibo,Venezuela**
+**--Bachelor in Graphic Design Maracaibo,Venezuela--**
 - Photography
 - Design and Illustration.
 - Video Editing.
@@ -52,16 +52,16 @@ Technologies: Angular, gulp, yeoman.
 ###Experience | *where I’ve worked*
 
 **Toston Tolon LTD (July 2013 - December 2015)**<br />
-*Founder & Director Brighton, UK*
+*Founder & Director. Brighton, UK.*
 
 **Cega Group (December 2011 - May 2014)**<br />
-*Medical Assistant/ Claims Handler Bournemouth, UK*
+*Medical Assistant/ Claims Handler. Bournemouth, UK.*
 
 **Fantasy Systems LTD (March 2008 - 2012)**<br />
-*Sales Representative/ Director Orlando, USA*
+*Sales Representative/ Director. Orlando, USA.*
 
 **Fossil (November 2010 - July 2011)**<br />
-*Sales Associate/Retail Orlando, USA*
+*Sales Associate/Retail. Orlando, USA.*
 
 ###Contact
 **Email:** LmaruromeroL@gmail.com<br>
