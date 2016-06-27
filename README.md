@@ -20,20 +20,12 @@ I was born and raised in Venezuela, where I did my Bachelors degree whilst being
 
 ###Projects | *stuff I’ve made*
 
-**[Street Food](https://team-streetfood.herokuapp.com)** | Team of 4 | Built in 5 days | Makerthon Week <br />
-Web App that allows street food traders to create their profiles, advertising their business, as well as location, time and place. Customers can narrow street food vendors given a search area via algorithmic analysis of Google maps data.<br />
-Technologies: Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API.
-
-**[Air BnB](https://air-bnb-aams.herokuapp.com/spaces)** | Team of 4 | Built in 4 days | Project Week<br />
-Air BnB clone.<br />
-Technologies: Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, Java Script & PostgreSQL.
-
-**[Motivation API](https://github.com/RobinHeathcote/Motivation)** | Team of 4 | Built in 5 days | Final Project<br />
-Api that stores peoples aspirations, obstacles and plans.<br />
-Technologies: Ruby on Rails, Rspec, Device-Token-auth.<br />
-**[Motivation Front-end](https://github.com/letianw91/motivation-frontend)** | Team of 4 | Built in 4 days | Final Project<br />
-Angular App.<br />
-Technologies: Angular, gulp, yeoman.
+| Project                 | Description             | Technologies            |
+|-------------------------|-------------------------|-------------------------|
+| [Street Food](https://team-streetfood.herokuapp.com) | Web App that allows street food traders to create their profiles, advertising their business, as well as location, time and place. Customers can narrow street food vendors given a search area via algorithmic analysis of Google maps data. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API. |
+| [Air BnB](https://air-bnb-aams.herokuapp.com/spaces) | Air BnB clone | Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, Java Script & PostgreSQL. |
+| [Motivation API](https://github.com/RobinHeathcote/Motivation) | Token Authentication Based API that stores peoples aspirations, obstacles and plans. | Ruby on Rails, Rspec, Device-Token-auth. |
+|[Motivation Front-end](https://github.com/letianw91/motivation-frontend) | Angular App | Angular, gulp, yeoman.
 
 ###Education | *what I’ve done*
 
