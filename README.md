@@ -1,29 +1,39 @@
-#Maria Romero: *can actually code now  / Coding mama!*
 
-I am mum that some how managed to do Makers Academy's intensive 12 week web developers course!. I'm thrilled about the fact that I'll be joining a fun, challenging and thriving industry, I'm looking to start as a junior web developer in an agile environment where I will be forever evolving as a person and as a professional  **I'm available end of June, 2016.**
+#Maria Romero
+
+I am a Former Street Food Vendor and have done a little bit of everything in my short life, one of those decisions was to do Makers Academy, where I have learned design in a completely different field my BA in Graphic Design help me when it came to front end development and finishing touches of several projects
+
+This intensive course has left me exhausted yet thrilled that I'll be joining a fun, challenging and thriving industry, I'm looking to start as a junior web developer in an agile environment where I will be forever evolving as a person and as a professional.
 
 ###Skills | *stuff I’m good at*
 
 **I work well in teams.**<br />
-I've always been a loyal and hard working person, I consider myself a team player, once a goal is set everybody in my team will be drag a long for the ride using an agile sprint approach, being honest about struggles and celebrating even the smallest achievements.
+I've always been a loyal and hard working person, I consider myself a team player, once a goal is set everybody in my team will be drag a long for the ride using an agile sprint approach, being honest about struggles and celebrating even the smallest achievements. Working on the Air BnB project as one in a team of four we continue running out own stand ups, pairing everyday and achieving goals together whilst having an amazing time.   
 
-**I can do some coding!.**<br />
-I was able to get over the sad idea that coding was too hard for me, and now reflecting my thoughts 4 months ago, I am ready to say I have definitely learn and can continue learning this thing!
+**I can code!.**<br />
+In the past four months I have been building web applications, API's, working with data bases in an object oriented and TDD manner. The Street Food project allow me to fully see how powerful a ruby on rails app can be along with the wonderful realisation that I can code!
+
+Six months ago I hadn't written a single line of code now I am ready to say I have definitely learn and can continue learning this thing!.
 
 **I've evolved.**<br />
 I was born and raised in Venezuela, where I did my Bachelors degree whilst being an English teacher, spent a few years in USA where I started my own exporting company, before moving to the UK, since being here I realised that this life is mine to shape and with perseverance I can get very very far.
 
-###Projects | *stuff I’ve manage to make*
+###Projects | *stuff I’ve made*
 
 **[Street Food](https://team-streetfood.herokuapp.com)** | Makers Academy<br />
-Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API: Narrow street food vendors given search area via algorithmic analysis of Google maps data.
+Web App that can arrow street food vendors given search area via algorithmic analysis of Google maps data.<br />
+Technologies: Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API .
 
 **[Air BnB](https://air-bnb-aams.herokuapp.com/spaces)** | Project week<br />
-Ruby on Rails, Rspec, Capybara, Sinatra, JS & PostgreSQL: Air BnB clone.
+Air BnB clone.<br />
+Technologies: Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, JS & PostgreSQL.
 
 **[Motivation API](https://github.com/RobinHeathcote/Motivation)** | Final Project<br />
-Ruby on Rails & Rspec: Api that stores peoples aspirations, obstacles and plans.
-
+Api that stores peoples aspirations, obstacles and plans.<br />
+Technologies: Ruby on Rails, Rspec, Device-Token-auth.
+**[Motivation Front-end](https://github.com/letianw91/motivation-frontend)** | Final Project<br />
+Angular App.<br />
+Technologies: Angular, gulp, yeoman.
 
 ###Education | *what I’ve done*
 
@@ -34,7 +44,7 @@ Ruby on Rails & Rspec: Api that stores peoples aspirations, obstacles and plans.
 
 **Universidad Rafael Belloso Chacin (June 2002 - December 2006)** <br />
 **Bachelor in Graphic Design Maracaibo,Venezuela**
-- Illustration.
+- Photography
 - Design and Illustration.
 - Video Editing.
 - Photoshop, Illustrator, Premiere, After effects, Final Cut.
