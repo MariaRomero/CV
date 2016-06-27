@@ -16,10 +16,10 @@ I was born and raised in Venezuela, where I did my Bachelors degree whilst being
 ###Projects | *stuff I’ve manage to make*
 
 **[Street Food](https://team-streetfood.herokuapp.com)** | Makers Academy<br />
-Ruby on Rails & Google maps API: Narrow street food vendors given search area via algorithmic analysis of Google maps data.
+Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API: Narrow street food vendors given search area via algorithmic analysis of Google maps data.
 
 **[Air BnB](https://air-bnb-aams.herokuapp.com/spaces)** | Project week<br />
-Angular, Rails & PostgreSQL: Air BnB clone .
+Ruby on Rails, Rspec, Capybara, Sinatra, JS & PostgreSQL: Air BnB clone.
 
 **[Motivation API](https://github.com/RobinHeathcote/Motivation)** | Final Project<br />
 Ruby on Rails & Rspec: Api that stores peoples aspirations, obstacles and plans.
