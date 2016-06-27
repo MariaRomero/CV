@@ -8,10 +8,10 @@ I am mum that some how managed to do Makers Academy's intensive 12 week web deve
 I've always been a loyal and hard working person, I consider myself a team player, once a goal is set everybody in my team will be drag a long for the ride using an agile sprint approach, being honest about struggles and celebrating even the smallest achievements.
 
 **I can do some coding!.**<br />
-I was able to get over the sad idea that coding was too hard for me, and now reflecting my thoughts 4 months ago, I am ready to say I have definetly learn and can continue learning this thing!
+I was able to get over the sad idea that coding was too hard for me, and now reflecting my thoughts 4 months ago, I am ready to say I have definitely learn and can continue learning this thing!
 
 **I've evolved.**<br />
-I was born and raised in Venezuela, where I did my Bachelors degree whilst being an English teacher, spent a few years in USA where I started my own exporting company, before moving to the UK, since being here I realized that this life is mine to shape and with perseverience I can get very very far.
+I was born and raised in Venezuela, where I did my Bachelors degree whilst being an English teacher, spent a few years in USA where I started my own exporting company, before moving to the UK, since being here I realised that this life is mine to shape and with perseverance I can get very very far.
 
 ###Projects | *stuff I’ve manage to make*
 
