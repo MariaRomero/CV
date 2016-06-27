@@ -1,4 +1,4 @@
-#Maria Romero: *I can actually code now/ Coding mama!*
+#Maria Romero: *can actually code now  / Coding mama!*
 
 I am mum that some how managed to do Makers Academy's intensive 12 week web developers course!. I'm thrilled about the fact that I'll be joining a fun, challenging and thriving industry, I'm looking to start as a junior web developer in an agile environment where I will be forever evolving as a person and as a professional  **I'm available end of June, 2016.**
 
