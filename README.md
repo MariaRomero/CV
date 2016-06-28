@@ -1,22 +1,19 @@
 
 #Maria Romero
-
-I am a Former Street Food Vendor and have done a little bit of everything in my short life, one of those decisions was to do Makers Academy, where I have learned design in a completely different field, my BA in Graphic Design help me when it came to front end development and finishing touches of several projects.
-
-This intensive course has left me exhausted yet thrilled that I'll be joining a fun, challenging and thriving industry, I'm looking to start as a junior web developer in an agile environment where I will be forever evolving as a person and as a professional.
+I am a former Street Food vendor, Graphic Designer and English teacher. Despite my relatively young age, I have packed a lot of things into my life, one of which is Makers Academy. This 12 week intensive coding bootcamp has left me energized and thrilled to be joining a fun, challenging and thriving industry. I'm looking to start as a junior web developer in an agile environment where I can continually evolve as a person, and as a professional.
 
 ###Skills | *stuff I’m good at*
 
 **I work well in teams.**<br />
-I've always been a loyal and hard working person, I consider myself a team player, once a goal is set everybody in my team will be drag a long for the ride using an agile sprint approach, being honest about struggles and celebrating even the smallest achievements. Working on the Air BnB project as one in a team of four we continue running out own stand ups, pairing everyday and achieving goals together whilst having an amazing time.   
+I've always been a loyal and hard working person, a true team player who has adapted to agile methodologies. In some Makers projects I was praised by my team about the honest approach in acknowledging challenges, my enthusiasm in making sure to celebrate even the smallest achievements and keep morale.
 
-**I can code!.**<br />
-In the past four months I have been building web applications, API's, working with data bases in an object oriented and TDD manner. The Street Food project allow me to fully see how powerful a ruby on rails app can be along with the wonderful realisation that I can code!
+**I can code.**<br />
+In the past four months I have been building web applications, connecting with API's and working with databases. All this was done in an object oriented manner, whilst employing test driven development and pairing every day. The Street Food project allowed me to fully see how powerful a Ruby on Rails app can be and also led to the wonderful realization that I can code!
 
-Six months ago I hadn't written a single line of code now I am ready to say I have definitely learn and can continue learning this thing!.
+Six months ago I hadn't written a single line of code but I am proud of how much I have learned in such a short space of time and I'm excited to continue building on this knowledge and honing my skills!
 
 **I've evolved.**<br />
-I was born and raised in Venezuela, where I did my Bachelors degree whilst being an English teacher, spent a few years in USA where I started my own exporting company, before moving to the UK, since being here I've realised that in needed to adapt a growth mindset, that this life is mine to shape and with perseverance I can get very very far.
+I was born and raised in Venezuela, where I did my Bachelor's degree whilst being an English teacher, I then spent a few years in USA where I started my own exporting company, before moving to the UK. Since being here I've realized that I needed to adopt a growth mindset, that this life is mine to shape and that, with perseverance, there is nothing I cannot achieve.
 
 ###Projects | *stuff I’ve made*
 
@@ -43,20 +40,19 @@ I was born and raised in Venezuela, where I did my Bachelors degree whilst being
 
 ###Experience | *where I’ve worked*
 
-**Toston Tolon LTD (July 2013 - December 2015)**<br />
+**Toston Tolon LTD (Jul 2013 - Dec 2015)**<br />
 *Founder & Director. Brighton, UK.*
 
-**Cega Group (December 2011 - May 2014)**<br />
+**Cega Group (Dec 2011 - Oct 2014)**<br />
 *Medical Assistant/ Claims Handler. Bournemouth, UK.*
 
 **Fantasy Systems LTD (March 2008 - 2012)**<br />
 *Sales Representative/ Director. Orlando, USA.*
 
-**Fossil (November 2010 - July 2011)**<br />
+**Fossil (Nov 2010 - July 2011)**<br />
 *Sales Associate/Retail. Orlando, USA.*
 
 ###Contact
 **Email:** LmaruromeroL@gmail.com<br>
-**LinkedIn:**
- [LinkedIn]https://uk.linkedin.com/in/maria-romero-7695b256<br>
-**GitHub:** [Github]https://github.com/MariaRomero<br>
+**LinkedIn:** https://uk.linkedin.com/in/maria-romero-7695b256<br>
+**GitHub:** https://github.com/MariaRomero<br>
