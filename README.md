@@ -19,8 +19,8 @@ I was born and raised in Venezuela, where I did my Bachelor's degree whilst bein
 
 | Project                 | Description             | Technologies            |
 |-------------------------|-------------------------|-------------------------|
-| [Street Food](https://team-streetfood.herokuapp.com) | Web App that allows street food traders to create their profiles, advertising their business, as well as location, time and place. Customers can narrow street food vendors given a search area via algorithmic analysis of Google maps data. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API. |
-| [Air BnB](https://air-bnb-aams.herokuapp.com/spaces) | Air BnB clone | Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, Java Script & PostgreSQL. |
+| [Street Food](https://github.com/MariaRomero/streetFood) | Web App that allows street food traders to create their profiles, advertising their business, as well as location, time and place. Customers can narrow street food vendors given a search area via algorithmic analysis of Google maps data. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL, Heroku & Google maps API. |
+| [Air BnB](https://github.com/MariaRomero/air_bnb) | Air BnB clone | Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, Java Script & PostgreSQL. |
 | [Motivation API](https://github.com/RobinHeathcote/Motivation) | Token Authentication Based API that stores peoples aspirations, obstacles and plans. | Ruby on Rails, Rspec, Device-Token-auth. |
 |[Motivation Front-end](https://github.com/letianw91/motivation-frontend) | Angular App | Angular, gulp, yeoman.
 
