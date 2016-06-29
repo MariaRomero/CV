@@ -21,8 +21,8 @@ I was born and raised in Venezuela, where I did my Bachelor's degree whilst bein
 |-------------------------|-------------------------|-------------------------|
 | [Street Food](https://github.com/MariaRomero/streetFood) | Web App that allows street food traders to create their profiles, advertising their business, as well as location, time and place. Customers can narrow street food vendors given a search area via algorithmic analysis of Google maps data. | Ruby on Rails, JavaScript, OmniAuth, HTML, CSS, PostgreSQL, Heroku, Rspec, Capybara, Google Maps API. |
 | [Air BnB](https://github.com/MariaRomero/air_bnb) | Air BnB clone | Ruby on Rails, Rspec, Capybara, Sinatra, Heroku, Java Script & PostgreSQL. |
-| Motivation [API](https://github.com/RobinHeathcote/Motivation) [Front-end](https://github.com/letianw91/motivation-angular) | MA final project. Token Authentication Based back end API built with rails and an Angular.js front-end app using WOOP psychology to motivate users to achieve their wishes by making plans and outlining obstacles. | Ruby on Rails, Rspec, Device-Token-auth, Angular.js, HTML, CSS, Materialise, Auth, Ng-Token-Auth, PostgresSQL, Active Record, Protractor, Karma |
-|[Motivation Front-end](https://github.com/letianw91/motivation-frontend) | Angular App | Angular, gulp, yeoman.
+| Motivation [API](https://github.com/RobinHeathcote/Motivation) [Front-end](https://github.com/letianw91/motivation-angular) | MA final project. Back-end Token Authentication Based API built with Rails / an Angular.js front-end app using WOOP psychology to motivate users to achieve their wishes by making plans and outlining obstacles. | Ruby on Rails, Rspec, Device-Token-auth, Angular.js, HTML, CSS, Materialise, Auth, Ng-Token-Auth, PostgresSQL, Active Record, Protractor, Karma, gulp, yeoman |
+
 
 ###Education | *what I’ve done*
 
