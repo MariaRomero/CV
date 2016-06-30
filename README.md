@@ -1,6 +1,6 @@
 
 #Maria Romero
-I am a former Street Food vendor, Graphic Designer and English teacher. Despite my relatively young age, I have packed a lot of things into my life, one of which is Makers Academy. This 12 week intensive coding bootcamp has left me energized and thrilled to be joining a fun, challenging and thriving industry. I'm looking to start as a junior web developer in an agile environment where I can continually evolve as a person, and as a professional.
+I am a former Street Food vendor, Graphic Designer and English teacher. Despite my relatively young age, I have packed a lot of things into my life, one of which is Makers Academy. This 16 week intensive coding bootcamp has left me energized and thrilled to be joining a fun, challenging and thriving industry. I'm looking to start as a junior web developer in an agile environment where I can continually evolve as a person, and as a professional.
 
 ###Skills | *stuff I’m good at*
 
@@ -26,8 +26,8 @@ I was born and raised in Venezuela, where I did my Bachelor's degree whilst bein
 
 ###Education | *what I’ve done*
 
-**Makers Academy (April 2016 - June 2016)** <br />
-- Highly selective 12 week full-time course.
+**Makers Academy (March 2016 - June 2016)** <br />
+- Highly selective 16 week full-time course.
 - Focussed on Test Driven Development and Agile practices.
 - Teaching Web development with Ruby, Ruby on Rails, among others.
 
