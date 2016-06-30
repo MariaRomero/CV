@@ -46,11 +46,17 @@ I was born and raised in Venezuela, where I did my Bachelor's degree whilst bein
 **Cega Group (Dec 2011 - Oct 2014)**<br />
 *Medical Assistant/ Claims Handler. Bournemouth, UK.*
 
-**Fantasy Systems LTD (March 2008 - 2012)**<br />
+**Fossil (Nov 2010 - Jul 2011)**<br />
+*Sales Associate/Retail. Orlando, USA.*
+
+**Fantasy Systems LTD (Mar 2008 - Dec 2012)**<br />
 *Sales Representative/ Director. Orlando, USA.*
 
-**Fossil (Nov 2010 - July 2011)**<br />
-*Sales Associate/Retail. Orlando, USA.*
+**Berlitz (Feb 2007 - Nov 2007)**<br />
+*Lead Teacher/Education. Puerto La Cruz, Venezuela.*
+
+**Just for Kids (Jun 2002 - Nov 2006)**<br />
+*English Teacher/Education. Maracaibo, Venezuela.*
 
 ###Contact
 **Email:** LmaruromeroL@gmail.com<br>
