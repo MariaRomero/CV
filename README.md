@@ -32,7 +32,7 @@ I was born and raised in Venezuela, where I did my Bachelor's degree whilst bein
 - Teaching Web development with Ruby, Ruby on Rails, among others.
 
 **Universidad Rafael Belloso Chacin (June 2002 - December 2006)** <br />
-**--Bachelor in Graphic Design Maracaibo,Venezuela--**
+######Bachelor in Graphic Design Maracaibo,Venezuela 
 - Photography
 - Design and Illustration.
 - Video Editing.
